@@ -1,4 +1,5 @@
 # AutumnShell
+-------------
 Custom shell for Windows 7 made in C# using WPF and .NET 4.0  
 Tested on Windows 7 SP1 x86 and x64.
 
